@@ -1,0 +1,21 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+
+}
+.subnav{
+    display: flex;
+    gap: 30px;
+}
+.nav-links{
+    display: flex;
+    gap: 20px;
+}
+.nav-links li{
+    list-style: none;
+}
+.nav-links li a{
+    text-decoration: none;
+}
