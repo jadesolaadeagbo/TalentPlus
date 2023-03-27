@@ -1,0 +1,70 @@
+.main-container{
+    display: flex;
+    padding: 0% 7.5% 0% 7.5%;
+    margin: auto;
+    background-color:
+    #F8F9FC;
+}
+.submain{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+
+}
+.text{
+    width: 50%;
+}
+.text h1{
+    font-family: 'Clash Display', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    color: #000F24;
+}
+.text .paragraph{
+    font-family: 'Satoshi';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #A2A2A2;
+}
+
+.view{
+    background: #004DB3;
+    border-radius: 4px;
+    padding: 16px 32px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    margin-top: 22px;
+}
+.text .card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:24px;
+    padding-top: 24px;
+}
+.text .card{
+    padding: 25px 56px 25px 24px;
+    background-color: white;
+    gap: 16px;
+    border: none;
+    display: flex;
+    border-radius: 8px;
+    font-family: 'Satoshi';
+    font-weight: 700;
+    font-size: 16px;
+
+}
+.mainimages{
+    display: flex;
+    flex-direction: column;
+}
+.mainimg1{
+    position: relative;
+}
+.mainimg2{
+    position: absolute;
+    top: 237%;
+    left: 45%
+}

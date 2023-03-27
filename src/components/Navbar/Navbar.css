@@ -10,11 +10,6 @@
     background-color: 
     #004DB3;
 }
-.nav-container p{
-    font-size: 47px;
-    color: #ffff;
-    font-family: "Amazing Kids";
-}
 .subnav{
     display: flex;
     align-items: center;

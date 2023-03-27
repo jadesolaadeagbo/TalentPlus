@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../Navbar/Navbar'
 import "./Home.css"
-import bg from '../../assets/background.svg'
+import bg from '../../assets/bg.svg'
 import zoom from "../../assets/zoom.svg"
 import stripe from "../../assets/stripe.svg"
 import monday from "../../assets/monday.svg"

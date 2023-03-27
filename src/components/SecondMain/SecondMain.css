@@ -1,0 +1,58 @@
+.secondmain-container{
+    background-color:
+    #F8F9FC;
+    padding: 115px 7.5% 0% 7.5%;
+    display: flex ;
+    padding-bottom: 65px;
+    justify-content: space-between;
+}
+.leftcolumn{
+    width: 51%;
+}    
+.containertext h1{
+    font-family: 'Clash Display';
+    font-weight: 700;
+    font-size: 56px;
+    text-transform: capitalize;
+    color: #000F24;
+}
+.containertext .paragraph{
+    font-family: 'Satoshi';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #A2A2A2;
+}
+.secmainimg{
+    padding-left: 0;
+}
+.rightcolumn{
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.heading{
+    font-family: 'Satoshi';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.body{
+    font-family: 'Satoshi';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #A2A2A2;
+}
+.colcard{
+    width: 49%;
+    background-color: white;
+    padding: 32px 24px; 
+    line-height: 22px;
+    border-radius: 8px;
+}
